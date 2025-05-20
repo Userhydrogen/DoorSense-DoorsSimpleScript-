@@ -7,7 +7,7 @@ A powerful Lua script for Roblox Doors featuring Entity ESP, FullBright, Room Co
 📜 Script - loadstring(game:HttpGet("https://raw.githubusercontent.com/Userhydrogen/DoorSense-DoorsSimpleScript-/refs/heads/main/Source"))()
 
 
-📜 Description
+📜 Description - 
 This script enhances your Roblox Doors gameplay with essential utilities like Monster ESP, Door Highlighting, FullBright, and more! Designed to work on any executor, it gives you the edge to survive longer and avoid surprises.
 
 🔍 How to unlock cursor? Press Tab Then press insert to open menu and enjoy (yes i know this un comfortable, i fix this soon..)

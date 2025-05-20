@@ -10,12 +10,14 @@ A powerful Lua script for Roblox Doors featuring Entity ESP, FullBright, Room Co
 📜 Description
 This script enhances your Roblox Doors gameplay with essential utilities like Monster ESP, Door Highlighting, FullBright, and more! Designed to work on any executor, it gives you the edge to survive longer and avoid surprises.
 
+🔍 How to unlock cursor? Press Tab Then press insert to open menu and enjoy (yes i know this un comfortable, i fix this soon..)
+
 ✨ Features
-✅ Entity Warning – Alerts you when monsters are nearby.
-✅ Monster ESP – See enemies through walls (A-60, A-120, Seek, etc.).
-✅ Door ESP – Highlights correct doors and traps.
-✅ FullBright – Removes darkness for better visibility.
-✅ Current Room Counter (GUI) – Tracks your progress in real-time.
+✅ Entity Warning
+✅ Monster ESP
+✅ Door ESP
+✅ FullBright
+✅ Current Room Counter (GUI)
 
 ⚙ Compatibility
 ✔ Works on any Lua executor (Synapse, Krnl, Fluxus, JJsploit, Xeno, Solara, Wave, ScriptWare etc.).

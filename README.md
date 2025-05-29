@@ -29,5 +29,3 @@ This script enhances your Roblox Doors gameplay with essential utilities like Mo
 Copy the script below.
 Paste into your executor.
 Execute and ENJOY!
-
-### Special Thanks to **coneconusconnoiseur**!
